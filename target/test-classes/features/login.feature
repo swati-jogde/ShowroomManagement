@@ -2,9 +2,9 @@ Feature: Admin Login functionality using JSON
 @Sanity
 
   Scenario: login with valid data
-    Given User launches Chrome browser
-    When User opens URL "https://products.pisystindia.com/showroom/admin/login"
-    Then  User enters valid credentials from JSON index "0"
+    Given the User launches Chrome browser
+    When the User opens URL "https://products.pisystindia.com/showroom/admin/login"
+    Then  the User enters valid credentials from JSON index "0"
     And Clicks on Login
     Then Page title should match expected title from JSON
     And Closes the browser 

@@ -284,3 +284,122 @@
 2025-06-03 14:22:39 INFO  LogHelper:12 - Country selected successfully.
 2025-06-03 14:22:39 INFO  LogHelper:12 - clicked on add button ...
 2025-06-03 14:22:49 ERROR LogHelper:17 - Scenario failed: Admin adds a new state with valid details
+2025-06-17 14:58:18 INFO  LogHelper:12 - Starting scenario: admin add country with valid data
+2025-06-17 14:58:22 INFO  LogHelper:12 - launch chrome browser
+2025-06-17 14:58:25 INFO  LogHelper:12 - Url Opened
+2025-06-17 14:58:32 INFO  LogHelper:12 - login Successfully
+2025-06-17 14:58:32 INFO  LogHelper:12 - dashboard displayed
+2025-06-17 14:58:32 INFO  LogHelper:12 - clicked on location 
+2025-06-17 14:58:33 INFO  LogHelper:12 - Clicked on Country
+2025-06-17 14:58:33 INFO  LogHelper:12 - Clicked on add country
+2025-06-17 14:58:36 INFO  LogHelper:12 - Country added successfully
+2025-06-17 14:58:36 WARN  LoginSteps:117 - expected title not matched
+2025-06-17 14:58:36 INFO  LogHelper:22 - expected title match with actual title
+2025-06-17 14:58:39 INFO  LogHelper:12 - Admin clicked on yes Add!
+2025-06-17 14:58:42 INFO  LogHelper:12 - Scenario passed: admin add country with valid data
+2025-06-17 14:58:43 INFO  LogHelper:12 - Starting scenario: Admin adds a new state with valid details
+2025-06-17 14:58:43 INFO  LogHelper:12 - launch chrome browser
+2025-06-17 14:58:43 INFO  LogHelper:12 - Url Opened
+2025-06-17 14:58:49 INFO  LogHelper:12 - login Successfully
+2025-06-17 14:58:49 INFO  LogHelper:12 - Admin logged in
+2025-06-17 14:58:50 INFO  LogHelper:12 - Admin Cliked on Location
+2025-06-17 14:58:56 INFO  LogHelper:12 - admin clicked on state button
+2025-06-17 14:58:56 INFO  LogHelper:12 - admin Cliked on add state button
+2025-06-17 14:58:56 INFO  LogHelper:12 - State name entered 
+2025-06-17 14:58:57 INFO  LogHelper:12 - Country selected successfully.
+2025-06-17 14:58:57 INFO  LogHelper:12 - clicked on add button ...
+2025-06-17 14:59:07 ERROR LogHelper:17 - Scenario failed: Admin adds a new state with valid details
+2025-06-17 14:59:07 INFO  LogHelper:12 - Starting scenario: Admin add city with valid data
+2025-06-17 14:59:07 INFO  LogHelper:12 - launch chrome browser
+2025-06-17 14:59:08 INFO  LogHelper:12 - Url Opened
+2025-06-17 14:59:14 INFO  LogHelper:12 - login Successfully
+2025-06-17 14:59:14 INFO  LogHelper:12 - Admin logged in
+2025-06-17 14:59:15 ERROR LogHelper:17 - Scenario failed: Admin add city with valid data
+2025-06-17 15:06:06 INFO  LogHelper:12 - Starting scenario: Admin adds a new state with valid details
+2025-06-17 15:06:09 INFO  LogHelper:12 - launch chrome browser
+2025-06-17 15:06:18 INFO  LogHelper:12 - Url Opened
+2025-06-17 15:06:24 INFO  LogHelper:12 - login Successfully
+2025-06-17 15:06:28 INFO  LogHelper:12 - Admin logged in
+2025-06-17 15:06:28 INFO  LogHelper:12 - Admin Cliked on Location
+2025-06-17 15:06:31 INFO  LogHelper:12 - admin clicked on state button
+2025-06-17 15:06:31 INFO  LogHelper:12 - admin Cliked on add state button
+2025-06-17 15:06:31 INFO  LogHelper:12 - State name entered 
+2025-06-17 15:06:31 INFO  LogHelper:12 - Country selected successfully.
+2025-06-17 15:06:31 INFO  LogHelper:12 - clicked on add button ...
+2025-06-17 15:06:41 ERROR LogHelper:17 - Scenario failed: Admin adds a new state with valid details
+2025-06-17 15:07:19 INFO  LogHelper:12 - Starting scenario: Admin adds a new state with valid details
+2025-06-17 15:07:21 INFO  LogHelper:12 - launch chrome browser
+2025-06-17 15:07:49 INFO  LogHelper:12 - Url Opened
+2025-06-17 15:07:55 INFO  LogHelper:12 - login Successfully
+2025-06-17 15:07:56 INFO  LogHelper:12 - Admin logged in
+2025-06-17 15:07:56 INFO  LogHelper:12 - Admin Cliked on Location
+2025-06-17 15:07:59 INFO  LogHelper:12 - admin clicked on state button
+2025-06-17 15:07:59 INFO  LogHelper:12 - admin Cliked on add state button
+2025-06-17 15:08:00 INFO  LogHelper:12 - State name entered 
+2025-06-17 15:08:00 INFO  LogHelper:12 - Country selected successfully.
+2025-06-17 15:08:00 INFO  LogHelper:12 - clicked on add button ...
+2025-06-17 15:08:10 ERROR LogHelper:17 - Scenario failed: Admin adds a new state with valid details
+2025-06-17 15:08:35 INFO  LogHelper:12 - Starting scenario: Admin adds a new state with valid details
+2025-06-17 15:08:37 INFO  LogHelper:12 - launch chrome browser
+2025-06-17 15:08:40 INFO  LogHelper:12 - Url Opened
+2025-06-17 15:08:46 INFO  LogHelper:12 - login Successfully
+2025-06-17 15:08:46 INFO  LogHelper:12 - Admin logged in
+2025-06-17 15:08:47 INFO  LogHelper:12 - Admin Cliked on Location
+2025-06-17 15:08:48 INFO  LogHelper:12 - admin clicked on state button
+2025-06-17 15:08:48 INFO  LogHelper:12 - admin Cliked on add state button
+2025-06-17 15:08:48 INFO  LogHelper:12 - State name entered 
+2025-06-17 15:08:48 INFO  LogHelper:12 - Country selected successfully.
+2025-06-17 15:08:49 INFO  LogHelper:12 - clicked on add button ...
+2025-06-17 15:08:49 ERROR LogHelper:17 - Scenario failed: Admin adds a new state with valid details
+2025-06-17 18:19:13 INFO  LogHelper:12 - Starting scenario: Admin adds a new state with valid details
+2025-06-17 18:19:18 INFO  LogHelper:12 - launch chrome browser
+2025-06-17 18:19:23 INFO  LogHelper:12 - Url Opened
+2025-06-17 18:19:30 INFO  LogHelper:12 - login Successfully
+2025-06-17 18:19:33 INFO  LogHelper:12 - Admin logged in
+2025-06-17 18:19:33 INFO  LogHelper:12 - Admin Cliked on Location
+2025-06-17 18:19:36 INFO  LogHelper:12 - admin clicked on state button
+2025-06-17 18:19:36 INFO  LogHelper:12 - admin Cliked on add state button
+2025-06-17 18:19:36 INFO  LogHelper:12 - State name entered 
+2025-06-17 18:19:36 INFO  LogHelper:12 - Country selected successfully.
+2025-06-17 18:19:37 INFO  LogHelper:12 - clicked on add button ...
+2025-06-17 18:19:47 ERROR LogHelper:17 - Scenario failed: Admin adds a new state with valid details
+2025-06-18 14:29:52 INFO  LogHelper:12 - Starting scenario: Admin adds a new state with valid details
+2025-06-18 14:29:57 INFO  LogHelper:12 - launch chrome browser
+2025-06-18 14:30:08 INFO  LogHelper:12 - Url Opened
+2025-06-18 14:30:14 INFO  LogHelper:12 - login Successfully
+2025-06-18 14:30:24 INFO  LogHelper:12 - Admin logged in
+2025-06-18 14:30:24 ERROR LogHelper:17 - Scenario failed: Admin adds a new state with valid details
+2025-06-18 14:32:08 INFO  LogHelper:12 - Starting scenario: Admin adds a new state with valid details
+2025-06-18 14:32:10 INFO  LogHelper:12 - launch chrome browser
+2025-06-18 14:32:16 INFO  LogHelper:12 - Url Opened
+2025-06-18 14:32:22 INFO  LogHelper:12 - login Successfully
+2025-06-18 14:32:31 INFO  LogHelper:12 - Admin logged in
+2025-06-18 14:32:32 INFO  LogHelper:12 - Admin clicked on Location menu
+2025-06-18 14:32:42 ERROR LogHelper:17 - Scenario failed: Admin adds a new state with valid details
+2025-06-18 15:00:48 INFO  LogHelper:12 - Starting scenario: Admin adds a new state with valid details
+2025-06-18 15:00:51 INFO  LogHelper:12 - launch chrome browser
+2025-06-18 15:01:09 INFO  LogHelper:12 - Url Opened
+2025-06-18 15:01:16 INFO  LogHelper:12 - login Successfully
+2025-06-18 15:01:21 INFO  LogHelper:12 - Admin logged in
+2025-06-18 15:01:21 INFO  LogHelper:12 - Admin Cliked on Location
+2025-06-18 15:01:24 INFO  LogHelper:12 - admin clicked on state button
+2025-06-18 15:01:25 INFO  LogHelper:12 - admin Cliked on add state button
+2025-06-18 15:01:25 INFO  LogHelper:12 - State name entered 
+2025-06-18 15:01:25 INFO  LogHelper:12 - Country selected successfully.
+2025-06-18 15:01:25 INFO  LogHelper:12 - clicked on add button ...
+2025-06-18 15:01:29 INFO  LogHelper:12 - Scenario passed: Admin adds a new state with valid details
+2025-06-18 15:07:56 INFO  LogHelper:12 - Starting scenario: Admin add city with valid data
+2025-06-18 15:07:58 INFO  LogHelper:12 - launch chrome browser
+2025-06-18 15:08:34 INFO  LogHelper:12 - Url Opened
+2025-06-18 15:08:41 INFO  LogHelper:12 - login Successfully
+2025-06-18 15:08:57 INFO  LogHelper:12 - Admin logged in
+2025-06-18 15:09:05 ERROR LogHelper:17 - Scenario failed: Admin add city with valid data
+2025-06-18 15:11:45 INFO  LogHelper:12 - Starting scenario: Admin add city with valid data
+2025-06-18 15:11:47 INFO  LogHelper:12 - launch chrome browser
+2025-06-18 15:12:07 INFO  LogHelper:12 - Url Opened
+2025-06-18 15:12:14 INFO  LogHelper:12 - login Successfully
+2025-06-18 15:12:26 INFO  LogHelper:12 - Admin logged in
+2025-06-18 15:12:32 INFO  LogHelper:12 - State name entered
+2025-06-18 15:12:40 INFO  LogHelper:12 - Scenario passed: Admin add city with valid data
+2025-06-19 10:05:15 INFO  LogHelper:12 - Starting scenario: Admin adds a new showroom with valid details
+2025-06-19 10:05:15 INFO  LogHelper:12 - Scenario passed: Admin adds a new showroom with valid details

@@ -1,0 +1,22 @@
+[
+{
+    "email": "masteradmin@gmail.com",
+    "password": "Sample@123",
+    "expectedTitle": "TVS"
+  },
+
+  {
+    "ShowroomName": "TVS Auto World",
+    "Email": "tvs@example.com",
+    "MobileNumber": "9876543210",
+    "InvoiceServicesContactNo": "1234567890",
+    "InvoiceSparesContactNo": "2345678901",
+    "InvoiceSalesContactNo": "3456789012",
+    "GSTNumber": "27ABCDE1234F1Z5",
+    "PAN_Number": "ABCDE1234F",
+    "country": "India",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "address": "123, MG Road, Pune"
+  }
+]

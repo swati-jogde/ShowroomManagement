@@ -19,7 +19,7 @@ public class LoginSteps extends BaseSteps {
 	
 
 	
-    @Given("User launches Chrome browser")
+    @Given("the User launches Chrome browser")
     public void user_launches_chrome_browser() {
         driver = DriverFactory.getDriver();
 
@@ -28,7 +28,7 @@ public class LoginSteps extends BaseSteps {
 
     }
 
-    @When("User opens URL {string}")
+    @When("the User opens URL {string}")
     public void user_opens_url(String URL) {
         driver = DriverFactory.getDriver();
 
@@ -39,7 +39,7 @@ public class LoginSteps extends BaseSteps {
 
     }
 
-    @Then("User enters valid credentials from JSON index {string}")
+    @Then("the User enters valid credentials from JSON index {string}")
     public void userEnterValidCredentials(String indexStr) {
         driver = DriverFactory.getDriver();
         int index = Integer.parseInt(indexStr);

@@ -15,18 +15,18 @@ import utils.TestDataReader;
 
 public class Country extends BaseSteps {
 
-	@Given("admin launches Chrome browser")
+	@Given("the user launches Chrome browser")
 	public void admin_launches_chrome_browser() {
         LogHelper.logInfo("launch chrome browser");
 	}
 
-	@When("admin opens URL {string}")
+	@When("the user opens URL {string}")
 	public void admin_opens_url(String url) {
         driver.get(url);
         LogHelper.logInfo("Url Opened");
 	}
 
-	@Then("admin enters valid credentials from JSON index {string}")
+	@Then("the user enters valid credentials from JSON index {string}")
 	public void admin_enters_valid_credentials_from_json_index(String indexStr) throws InterruptedException {
 		int index = Integer.parseInt(indexStr);
         List<Map<String, String>> dataList = TestDataReader.readLoginData(
@@ -55,12 +55,12 @@ public class Country extends BaseSteps {
 	
 	
 
-	@Given("admin is on dashboard page")
+	@Given("the user is on dashboard page")
 	public void admin_is_on_dashboard_page() {
         LogHelper.logInfo("dashboard displayed");
 	   	}
 
-	@When("the admin navigates to the {string} button")
+	@When("the user navigates to the {string} button")
 	public void the_admin_navigates_to_the_button(String section) {
 		//driver.switchTo().frame("iframeNameOrId");
 		// then find element
@@ -71,7 +71,7 @@ public class Country extends BaseSteps {
 	        }
 	    	}
 
-	@Then("the admin clicks on the country option")
+	@Then("the user clicks on the country option")
 	public void the_admin_clicks_on_the_country_option() {
 		// if (option.equalsIgnoreCase("Country")) {
 	            country.clickOnCountry();
@@ -80,7 +80,7 @@ public class Country extends BaseSteps {
 	        }
 	    	//}
 
-	@Then("the admin clicks on the {string} button")
+	@Then("the user clicks on the {string} button")
 	public void the_admin_clicks_on_the_button(String button) {
 		 if (button.equalsIgnoreCase("Add Country")) {
 	            country.clickOnAddCountry();
@@ -89,7 +89,7 @@ public class Country extends BaseSteps {
 	        }
 	    	}
 
-	@Then("the admin enters the country details from JSON index {string}")
+	@Then("the user enters the country details from JSON index {string}")
 	public void the_admin_enters_the_country_details_from_json_index(String indexCo) throws InterruptedException {
 		int index = Integer.parseInt(indexCo);
 
@@ -110,7 +110,7 @@ public class Country extends BaseSteps {
 		
 	    	}
 
-	@Then("the admin should see the confirmation message {string}")
+	@Then("the user should see the confirmation message {string}")
 	public void the_admin_should_see_the_confirmation_message(String expectedMessage) {
 		WebElement messageElement;
 	        if (expectedMessage.equalsIgnoreCase("Are you sure?")) {
@@ -129,7 +129,7 @@ public class Country extends BaseSteps {
 
 	
 	
-	 @Then("the admin clicks on {string}")
+	 @Then("the user clicks on {string}")
 	    public void yes_add_it(String option) throws InterruptedException {
 	        if (option.equalsIgnoreCase("Yes, Add it!")) {
 	        	Thread.sleep(3000);
